@@ -1,0 +1,15 @@
+body{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.video-gallery-container{
+  margin:  auto;
+  background-color: #FEFFED;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 15px;
+  align-items: flex-start;
+  padding: 5px 5%;
+}
